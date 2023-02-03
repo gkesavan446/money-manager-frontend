@@ -1,0 +1,15 @@
+.img-width {
+  width: 500px;
+  height: 500px;
+}
+
+@media screen and (max-width: 767px) {
+  .img-div {
+    display: none;
+  }
+}
+@media screen and (min-width: 767px) and (max-width: 992px) {
+  .img-div {
+    display: none;
+  }
+}
